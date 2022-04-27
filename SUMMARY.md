@@ -15,3 +15,11 @@
 * [COMBAT](solomons-forest-pillars/combat.md)
 * [SOLO SCENARIO](solomons-forest-pillars/solo-scenario.md)
 * [ECONOMICS](solomons-forest-pillars/economics.md)
+
+## NFT
+
+* [DEMON CASTLES NFT](nft/demon-castles-nft.md)
+
+## PLAY TO EARN
+
+* [P2E MECHANICS](play-to-earn/p2e-mechanics.md)
