@@ -22,4 +22,15 @@
 
 ## PLAY TO EARN
 
-* [P2E MECHANICS](play-to-earn/p2e-mechanics.md)
+* [MECHANICS](play-to-earn/mechanics.md)
+* [SEED](play-to-earn/seed.md)
+* [LEAF](play-to-earn/leaf.md)
+
+## VISION
+
+* [WHAT IS WEB3?](vision/what-is-web3.md)
+* [ROADMAP](vision/roadmap.md)
+
+## TEAM
+
+* [Page 2](team/page-2.md)
