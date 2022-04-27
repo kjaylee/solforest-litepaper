@@ -27,7 +27,7 @@
     * [WHAT IS WEB3?](en/vision/what-is-web3.md)
 * [솔포레스트 서](ko/README.md)
   * [목차](ko/SUMMARY.md)
-  * [introduction](ko/introduction/README.md)
+  * [소개](ko/introduction/README.md)
     * [블록체인 메카니즘](ko/introduction/blockchain-mechanics.md)
     * [게임 메카니즘](ko/introduction/game-mechanics.md)
   * [nft](ko/nft/README.md)
