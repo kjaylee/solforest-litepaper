@@ -1,4 +1,4 @@
-# BLOCKCHAIN MECHANICS
+# 블록체인 메카니즘
 
 1. “Solomon's Forest” is in the Solana ecosystem
 2. Blockchain based in-game currencies: SEED & LEAF

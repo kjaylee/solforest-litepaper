@@ -1,4 +1,4 @@
-# GAME MECHANICS
+# 게임 메카니즘
 
 1. Local based mobile game
 2. Real trading card game(TCG)

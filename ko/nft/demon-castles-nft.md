@@ -1,4 +1,4 @@
-# DEMON CASTLES NFT
+# 데몬 캐슬 NFT
 
 The Demon Castle has inherent geo information, and is a design rendered according to this geo information. You can check the location coordinates and Google Plus code in the metadata of each Demon Castle.
 

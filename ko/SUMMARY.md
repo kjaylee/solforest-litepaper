@@ -1,6 +1,6 @@
 # 목차
 
-* [Solforest paper](README.md)
+* [솔숲 서](README.md)
 
 ## 소개
 
