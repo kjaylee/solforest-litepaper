@@ -33,4 +33,4 @@
 
 ## TEAM
 
-* [Page 2](team/page-2.md)
+* [PROFILES](team/profiles.md)
