@@ -9,4 +9,9 @@
 
 ## SOLOMON'S FOREST PILLARS
 
-* [Demon Castle Areas](solomons-forest-pillars/demon-castle-areas.md)
+* [DEMON CASTLE AREA](solomons-forest-pillars/demon-castle-area.md)
+* [DEMON CARD](solomons-forest-pillars/demon-card.md)
+* [TREASURE HUNT](solomons-forest-pillars/treasure-hunt.md)
+* [COMBAT](solomons-forest-pillars/combat.md)
+* [SOLO SCENARIO](solomons-forest-pillars/solo-scenario.md)
+* [ECONOMICS](solomons-forest-pillars/economics.md)
