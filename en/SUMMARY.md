@@ -1,36 +1,36 @@
 # Table of contents
 
-* [Solforest paper](README.md)
+* [Solforest paper](../ko/)
 
 ## INTRODUCTION
 
-* [GAME MECHANICS](introduction/game-mechanics.md)
-* [BLOCKCHAIN MECHANICS](introduction/blockchain-mechanics.md)
+* [GAME MECHANICS](broken-reference)
+* [BLOCKCHAIN MECHANICS](broken-reference)
 
 ## SOLOMON'S FOREST PILLARS
 
 * [DEMON CASTLE AREA](solomons-forest-pillars/demon-castle-area.md)
-* [DEMON CARD](solomons-forest-pillars/demon-card.md)
-* [TREASURE HUNT](solomons-forest-pillars/treasure-hunt.md)
-* [COMBAT](solomons-forest-pillars/combat.md)
-* [SOLO SCENARIO](solomons-forest-pillars/solo-scenario.md)
+* [DEMON CARD](../ko/solomons-forest-pillars/demon-card.md)
+* [TREASURE HUNT](../ko/solomons-forest-pillars/treasure-hunt.md)
+* [COMBAT](../ko/solomons-forest-pillars/combat.md)
+* [SOLO SCENARIO](../ko/solomons-forest-pillars/solo-scenario.md)
 * [ECONOMICS](solomons-forest-pillars/economics.md)
 
 ## NFT
 
-* [DEMON CASTLES NFT](nft/demon-castles-nft.md)
+* [DEMON CASTLES NFT](broken-reference)
 
 ## PLAY TO EARN
 
-* [MECHANICS](play-to-earn/mechanics.md)
+* [MECHANICS](broken-reference)
 * [SEED](play-to-earn/seed.md)
-* [LEAF](play-to-earn/leaf.md)
+* [LEAF](../ko/play-to-earn/leaf.md)
 
 ## VISION
 
-* [WHAT IS WEB3?](vision/what-is-web3.md)
-* [ROADMAP](vision/roadmap.md)
+* [WHAT IS WEB3?](../ko/vision/what-is-web3.md)
+* [ROADMAP](../ko/vision/roadmap.md)
 
 ## TEAM
 
-* [PROFILES](team/profiles.md)
+* [PROFILES](../ko/team/profiles.md)
