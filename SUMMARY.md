@@ -2,7 +2,6 @@
 
 * [Languages](README.md)
 * [Solforest paper](en/README.md)
-  * [Table of contents](en/SUMMARY.md)
   * [introduction](en/introduction/README.md)
     * [GAME MECHANICS](en/introduction/game-mechanics.md)
     * [BLOCKCHAIN MECHANICS](en/introduction/blockchain-mechanics.md)
@@ -25,7 +24,6 @@
   * [team](en/team/README.md)
     * [PROFILES](en/team/profiles.md)
 * [솔포레스트 서](ko/README.md)
-  * [목차](ko/SUMMARY.md)
   * [소개](ko/introduction/README.md)
     * [게임 메카니즘](ko/introduction/game-mechanics.md)
     * [블록체인 메카니즘](ko/introduction/blockchain-mechanics.md)
