@@ -34,7 +34,7 @@
     * [전투](ko/solomons-forest-pillars/combat.md)
     * [솔로 시나리오](ko/solomons-forest-pillars/solo-scenario.md)
     * [경제](ko/solomons-forest-pillars/economics.md)
-  * [nft](ko/nft/README.md)
+  * [NFT](ko/nft/README.md)
     * [데몬 캐슬 NFT](ko/nft/demon-castles-nft.md)
   * [플레이하고 벌기](ko/play-to-earn/README.md)
     * [메카니즘](ko/play-to-earn/mechanics.md)
