@@ -2,10 +2,10 @@
 description: PvP & PvE Combat mode (Player vs Player & Player vs Monster)
 ---
 
-# COMBAT
+# 전투
 
-Players fight using Demon Cards. Demon Cards are outfitted with weapons. Players can start the battle by choosing a demon castle or a dungeon depending on their actual location. You choose a demon castle to fight other players, and the dungeon battles monsters.
+플레이어는 데몬 카드를 사용하여 싸웁니다. 데몬 카드에는 아이템을 장착할 수 있습니다. 플레이어는 실제 위치에 따라 데몬 캐슬 또는 던전을 선택하여 전투를 시작할 수 있습니다. 다른 플레이어와 싸우기 위해, 데몬 캐슬을 선택하고 던전은 몬스터와 전투를 벌입니다.
 
-Depending on the distance, the battle time, equipment damage, and movement cost will vary. However, the greater the distance, the greater the reward. It is important to note that equipment damage caused by combat is permanently affected.
+거리에 따라 전투 시간, 장비 데미지, 이동 비용이 달라집니다. 그러나 거리가 멀수록 보상도 커집니다. 전투로 인한 장비 손상은 영구적으로 영향을 받습니다.
 
-When a player ranks higher by winning battles, their status rises and financial gains occur. And as an additional reward, you will be given the right to create sub castles, rocks, trees, etc. near the main castle in the area.
+플레이어가 전투에서 승리하여 더 높은 랭크를 달성하면 지위가 상승하고 재정적 이득이 발생합니다. 그리고 추가 보상으로 해당 지역의 본성 주변에 보조 성, 바위, 나무 등을 생성할 수 있는 권한이 주어집니다.
