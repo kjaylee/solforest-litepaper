@@ -1,9 +1,9 @@
 # 블록체인 메카니즘
 
-1. "솔로몬의 숲"은 솔라나 생태계에 있습니다.
-2. 블록체인 기반 게임 내 화폐: SEED & LEAF
-3. 대체 불가능한 토큰(NFT) 자산 소유권
-4. 성 로열티를 기반으로 한 채굴
-5. P2P 전투에서 실시간 스마트 계약 실행
-6. Serum을 통해, 게임 인터페이스에 직접 통합된 DeFi
-7. 고위험, 고수익 게임 플레이
+1. “Solomon's Forest” is in the Solana ecosystem
+2. Blockchain based in-game currencies: SEED & LEAF
+3. Non-fungible token(NFT) assets ownership
+4. Mining based on castle royalties
+5. Real-time smart contract execution on P2P combat
+6. DeFi directly integrated into game interface via Serum
+7. High risk, high reward game play

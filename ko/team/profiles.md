@@ -1,13 +1,13 @@
-# 팀
+# PROFILES
 
-_**Jay Lee (@kjaylee)**_
+_Jay Lee_&#x20;
 
-_Creator & Programmer_
+_Creator & Programmer_&#x20;
 
-**J.B (@jojb102)**
+_J.B_
 
 _Scenario & Developer_
 
-우리 팀은 몇 년 동안 iOS 및 Android 인디 게임을 개발하기 위해 노력해 왔습니다. 우리는 블록체인의 도래와 솔라나의 탄생으로 결실을 맺기 위해 이 게임을 개발하고 있습니다. 우리는 삶을 즐길 수 없다는 것이 얼마나 불행한 일인지 압니다. 그러므로 우리의 모토는 "Enjoy Life"입니다. 우리는 모토를 위해 더 나은 게임을 위해 생각하고 생각합니다.
+Our team have been working on developing iOS & Android indie games for several years. We are developing this game to bring it to fruition with the advent of blockchain and the birth of Solana. We know how unfortunate it is to not be able to enjoy life. Therefore Our motto is “Enjoy Life”. We are thinking and thinking for a better game for the motto.
 
-<mark style="color:yellow;">“Enjoy Life”.</mark>
+We hope everyone <mark style="color:yellow;">“Enjoy Life”.</mark>

@@ -1,7 +1,7 @@
 # 게임 메카니즘
 
-1. 로컬 기반 모바일 게임
-2. 리얼 트레이딩 카드 게임(TCG)
-3. 성의 영토 통제
-4. 전투 및 시나리오 모드
-5. 실제 지역 기반 보물 찾기
+1. Local based mobile game
+2. Real trading card game(TCG)
+3. Castle’s territory control
+4. Combat and Scenario mode (Player vs. )
+5. Real local-based treasure hunt

@@ -1,7 +1,3 @@
----
-description: 브릿지 화폐
----
-
 # SEED
 
-SEED는 게임 내 화폐와 게임 외 화폐를 연결하는 화폐입니다. 게임 밖에서는 거래소와 연결되어 다른 화폐로 교환이 가능하며, 게임 내에서는 LEAF로 교환이 가능합니다. 또한, SEED는 논리적으로 항상 0.5 USDC 이상의 가치가 있습니다.
+SEED is a currency that connects in-game and out- game currency. Outside the game, it is connected to the exchange and can be exchanged for other currencies, and can be exchanged for LEAF within the game. Also, SEED is logically always worth 0.5 USDC or more.

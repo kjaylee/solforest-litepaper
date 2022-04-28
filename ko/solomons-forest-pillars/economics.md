@@ -1,4 +1,4 @@
-# 경제
+# ECONOMICS
 
 In order to realize our motto 'Enjoy Life', we are going to build and develop an in-game economic system. Like other blockchain games, income in the game can connect to real income. Digital assets owned by each player are owned by that, and those assets can be converted into crypto-currency. Assets represented by SEED can be used to purchase LEAF or NFTs. They can be used in the game.
 

@@ -1,4 +1,4 @@
-# 데몬 카드
+# DEMON CARD
 
 Player can get this card through "The Treasure Hunt", It can also be purchased from the Demon Castle's Market. Also, the cards player has can be exchanged with other player.\
 The Demon Card is under the power of King Solomon, and you can use the card's unique skills.
