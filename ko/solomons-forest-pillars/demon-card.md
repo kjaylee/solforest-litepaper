@@ -1,7 +1,6 @@
-# 데몬 카드
+# DEMON CARD
 
-플레이어는 "보물 찾기"를 통해 이 카드를 얻을 수 있으며, 데몬 캐슬에서도 구입할 수 있습니다. 또한, 플레이어가 가지고 있는 카드는 다른 플레이어와 교환할 수 있습니다.
+Player can get this card through "The Treasure Hunt", It can also be purchased from the Demon Castle's Market. Also, the cards player has can be exchanged with other player.\
+The Demon Card is under the power of King Solomon, and you can use the card's unique skills.
 
-데몬 카드에는 각 카드의 고유한 기능과 능력치를 향상시킬 수 있는 세부적인 요소가 포함되어 있습니다. 카드의 고유한 마법은 전투, 보물 찾기, 심지어 채굴에도 영향을 받습니다. 플레이어는 훈련이나 전투를 통해 각 카드의 능력치를 향상시킬 수 있습니다.
-
-카드는 N개의 교환 가능한 Token 입니다. 우리는 카드의 게임 외 가치를 인정하지 않습니다.&#x20;
+Demon Cards contain detailed elements that can enhance each card's unique functions and stats. The card's unique magic is also affected by combat, treasure hunt, and even mining. Player can improve the stats of each card through training or combat.
