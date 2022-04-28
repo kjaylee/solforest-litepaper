@@ -1,7 +1,7 @@
-# 데몬 캐슬의 영역
+# DEMON CASTLE AREA
 
-플레이어는 실제 위치를 기반으로 지도에 나타납니다. 그들은 그 위치에서 가장 가까운 성 중에서 자신의 성을 선택합니다. 플레이어는 선택된 성의 거주자로서 상점, 대장간, 인벤토리, 교환, 던전, 전투 등 다양한 기능을 사용할 수 있습니다.
+New players will appear on the map based on their actual location. They choose their castle from among the castle closest to that location. Players belong to the selected castle's residents, which allows them to use various functions such as shops, blacksmiths, inventory, exchanges, dungeons, and battles.
 
-성에 속한 플레이어는 성의 기능을 사용할 때, 성주에게 일정 금액의 로열티를 지불합니다. 로열티 금액은 성의 범위에 따라 영주가 정할 수 있습니다. 그리고 데몬 캐슬은 악마가 상징하는 바에 따라 다른 기능이 있을 수 있습니다.&#x20;
+Players belonging to the castle pay a certain amount of royalties to the castle lord in each time. The amount of royalties can be set by the lord according to the attributes of the demon castle. And The demon castle has different functions depending on the demon's symbolizes.
 
-플레이어는 자산을 수집하여 탑(NFT)을 건설할 수 있습니다. 이 탑은 플레이어가 원래 속해 있던 데몬 캐슬에 속합니다.
+Players can build Demon Castles(NFT) by collecting assets. These Demon Castles belong to the Demon Castle the player originally belonged to.
