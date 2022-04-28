@@ -1,4 +1,4 @@
-# DEMON CASTLE AREA
+# 데몬 캐슬의 영역
 
 New players will appear on the map based on their actual location. They choose their castle from among the castle closest to that location. Players belong to the selected castle's residents, which allows them to use various functions such as shops, blacksmiths, inventory, exchanges, dungeons, and battles.
 

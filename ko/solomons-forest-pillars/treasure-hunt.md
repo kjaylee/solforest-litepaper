@@ -1,4 +1,4 @@
-# TREASURE HUNT
+# 보물찾기
 
 Players can hide their own treasures and find treasures hidden by other players. After completing specific quests, you will have hide magic to hide treasure and scan magic to find hidden treasure.
 

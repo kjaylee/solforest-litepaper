@@ -1,7 +1,11 @@
+---
+description: 첫 번째 민팅(3600개)이 진행 중 입니다.
+---
+
 # 데몬 캐슬 NFT
 
-The Demon Castle has inherent geo information, and is a design rendered according to this geo information. You can check the location coordinates and Google Plus code in the metadata of each Demon Castle.
+악마성은 고유의 지리 정보를 가지고 있으며, 이 지리 정보에 따라 렌더링된 디자인입니다. 각 악마성의 메타데이터에서 지리 정보를 확인할 수 있습니다.
 
-The 1st generation Demon Castles are like governance token. Demon castle NFT holders have the right to vote on the main direction in the game. And this right will be maintained when the Solforest team releases a game based on geo information in the future. A total of 25416 the 1st generation Daemon Castles will be issued for the entire lifetime of the Solforest game series. That is, no more mint.
+1세대 악마성은 거버넌스 토큰과 같습니다. 악마성 NFT 보유자는 게임 내 주요 방향에 대해 투표할 권리가 있습니다. 그리고 이 권리는 향후 솔숲 시리즈 게임을 출시할 때, 항상 유지될 것입니다. 솔숲 게임 시리즈의 전체 수명 동안 총 25416개의 데몬 캐슬이 발행됩니다. 더 이상의 발행은 없습니다.
 
-Also, as Demon castles are NFT assets, they are tradable on internal or external marketplace. And those castles have the right to airdrop tokens.
+또한 데몬캐슬은 NFT 자산이기 때문에 내외부 마켓플레이스에서 거래가 가능합니다. 성주인은 앞으로dfaㅇㄴㅁㄹdasf&#x20;
