@@ -1,2 +1,0 @@
-# solomons-forest-pillars
-

@@ -1,3 +1,7 @@
+---
+description: 게임 내 화폐
+---
+
 # LEAF
 
-LEAF is the currency used in the game. All asset transactions in the game are made through LEAF, and royalties for castle lords are also paid by LEAF. Initial issuance of LEAF will be airdropped to Castle NFT holders. After that, it will be issued and burned in proportion to the number of active users.
+LEAF는 게임에서 사용되는 화폐입니다. 게임 내 모든 자산 거래는 LEAF를 통해 이루어지며, 성주에 대한 로열티도 LEAF에서 지급합니다. LEAF의 초기 발행은 Castle NFT 보유자에게 에어드롭됩니다. 이후에는 활성 사용자 수에 비례하여 발행 및 소각됩니다.

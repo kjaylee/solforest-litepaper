@@ -1,8 +1,8 @@
-# PROFILES
+# 프로필
 
-_Jay Lee_&#x20;
+_Jay Lee (@ㅏㅓㅁㅣㅏㅇ너리ㅏㅓㅣㅓㅣㅓㅣdfasdlkfj kljdsflkjdfdsfad  . sdafdd)_
 
-_Creator & Programmer_&#x20;
+_Creator & Programmer_
 
 _J.B_
 
